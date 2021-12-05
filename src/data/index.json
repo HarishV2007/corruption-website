@@ -1,0 +1,115 @@
+{
+    "homeSlider": {
+        "images": [
+            "https://www.imf.org/-/media/Images/IMF/Topics/governance-accountability-and-anti-corruption/Pandemic-Spending-Getty-Images-erhui1979-iStock-900872896.ashx",
+            "https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2019/12/11073122/95087329-international-anti-corruption-day-on-december-9-background--1200x600.jpg",
+            "https://sdgresources.relx.com/sites/default/files/styles/sus_content_main_image/public/stop-corruption.jpg?itok=1UZs9p10"
+        ],
+        "content": [
+            {
+                "id": 0,
+                "heading": null,
+                "description": null
+            },
+            {
+                "id": 1,
+                "heading": "You make a living by what you get.. you make a life by what you give.."
+            },
+            {
+                "id": 2,
+                "heading": null,
+                "description": null
+            }
+        ]
+    },
+    "info": [
+        {
+            "id": 0,
+            "title": "Angel Gurría, OECD secretary general.",
+            "description": "Integrity, transparency and the fight against corruption have to be part of the culture. They have to be taught as fundamental values"
+        },
+        {
+            "id": 1,
+            "title": "Delia Ferreira, chair of Transparency International.",
+            "description": "People’s indifference is the best breeding ground for corruption to grow."
+        },
+        {
+            "id": 2,
+            "title": "Peter Eigen, founder of Transparency International.",
+            "description": "People should be conscious that they can change a corrupt system"
+        }
+    ],
+    "mission": [
+        {
+            "description": "Our Mission is to stop corruption and promote transparency, accountability and integrity at all levels and across all sectors of society."
+        },
+        {
+            "description": "Our Vision is a world in which government, politics, business, civil society and the daily lives of people are free of corruption."
+        },
+        {
+            "description": "We undertake to be open, honest and accountable in our relationships with everyone we work with, and with each other."
+        },
+        {
+            "description": "We will respect and encourage respect for fundamental human rights and freedom."
+        },
+        {
+            "description": "We will strive for balanced and diverse representation on our governing bodies."
+        },
+        {
+            "description": "We will provide accurate and timely reports of our activities to our stakeholders."
+        }
+    ],
+    "googleFormLink": "https://forms.gle/2AFT8fbnKzhYFU5b6",
+    "awards": [
+        {
+            "id": 0,
+            "date": "December 10, 2019",
+            "heading": "Award for Volunteering and Participating at the Kalam Book of Records event by contributing to the largest manuscript On World Human Rights Day",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633866816/Kanaa%20Website/Awards/for%20NVEN%20event/1.png"
+        },
+        {
+            "id": 1,
+            "date": "December 12, 2020",
+            "heading": "Best Organization award at the Social Protection International Peace conference and SPT Peace Awards 2020.",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633866739/Kanaa%20Website/Awards/Best%20Organizantion/1.png"
+        },
+        {
+            "id": 2,
+            "date": "January 12, 2020",
+            "heading": "Award for Volunteering support at the Medical Camp in Saligramam",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634055837/Kanaa%20Website/Awards/Blood%20camp/Final.png"
+        },
+        {
+            "id": 3,
+            "date": "March 10,2020",
+            "heading": "Award for school Renovation of P.U.P.S Govt school , Jamin Korattur by SSA Tamilnadu.",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634055025/Kanaa%20Website/Awards/SSA%20Tamilnadu%20for%20School%20Renovation/1.png"
+        }
+    ],
+    "aboutUsSlider": {
+        "images": [
+            "https://www.biathlonintegrity.com/wp-content/uploads/2021/03/BIU-Anti-Corruption-5.jpg",
+            "https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2015/12/12-09-2015Corruption.jpg?fit=945%2C630&ssl=1"
+        ]
+    },
+    "volunteerTestimonials": [
+        {
+            "id": 0,
+            "name": "John Abrahram",
+            "description": "Bribery is the most common method of Corruption. Bribery involves the improper use of favours and gifts in exchange for personal gain.",
+            "imageURL": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+        },
+        {
+            "id": 1,
+            "name": "Christopher",
+            "description": "Extortion is another major method of Corruption. It means to obtain property, money or services illegally. ",
+            "imageURL": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+        },
+        {
+            "id": 2,
+            "name": "Rajput",
+            "description": "Favouritism and nepotism is quite an old form of Corruption still in usage. This refers to a person favouring one’s own relatives and friends to jobs. ",
+            "imageURL": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+        }
+    ]
+}
